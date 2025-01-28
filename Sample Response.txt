@@ -1,0 +1,124 @@
+{
+  "questions_to_revise": [
+    {
+      "question_description": "The secretions of endocrine glands are released directly",
+      "question_id": 1862
+    },
+    {
+      "question_description": "Vasa efferentia in male frog, enter the kidney and open into",
+      "question_id": 1878
+    }
+  ],
+  "response_results": [
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Tight junctions help to stop substances from leaking across a tissue.",
+      "option_1_description": "Adhering junctions perform cementing to keen neighbouring cells together.",
+      "option_2_description": "All of the above",
+      "option_3_description": "Gap junctions facilitate the cells to communicate With each other by connecting the cytoplasm adjoining cells, for rapid transfer of ions small molecules and sometimes big molecules",
+      "question_description": "Which of the following statement(s) regarding cell junctions is/are correct?",
+      "question_id": 1837,
+      "response_map": "response_map_1837",
+      "selected_option_description": "All of the above"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Areolar - Loosely packed matrix of protein fibres",
+      "option_1_description": "Bone - Mineralized matrix",
+      "option_2_description": "Cartilage - Highly vascular matrix",
+      "option_3_description": "Blood - Liquid matrix",
+      "question_description": "Which of the following types of connective tissue is mismatched with its matrix?",
+      "question_id": 1848,
+      "response_map": "response_map_1848",
+      "selected_option_description": "Cartilage - Highly vascular matrix"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Tendon-Specialized connective tissue",
+      "option_1_description": "Adipose tissue - Dense connective tissue",
+      "option_2_description": "Areolar tissue - Loose connective tissue",
+      "option_3_description": "Cartilage-Loose connective tissue",
+      "question_description": "Choose the correctly matched pair.",
+      "question_id": 1852,
+      "response_map": "response_map_1852",
+      "selected_option_description": "Areolar tissue - Loose connective tissue"
+    },
+    {
+      "answered_correctly": "No",
+      "option_0_description": "into the skin surface",
+      "option_1_description": "into the blood stream",
+      "option_2_description": "into a gland duct",
+      "option_3_description": "into the brain tissue",
+      "question_description": "The secretions of endocrine glands are released directly",
+      "question_id": 1862,
+      "response_map": "response_map_1862",
+      "selected_option_description": "into the brain tissue"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "neurogenic and 4 chambered",
+      "option_1_description": "myogenic and 2 chambered",
+      "option_2_description": "neurogenic and 3 chambered",
+      "option_3_description": "myogenic and 3 chambered",
+      "question_description": "Frog's heart is",
+      "question_id": 1877,
+      "response_map": "response_map_1877",
+      "selected_option_description": "myogenic and 3 chambered"
+    },
+    {
+      "answered_correctly": "No",
+      "option_0_description": "Bidder's canal",
+      "option_1_description": "Ureter",
+      "option_2_description": "Vacuole",
+      "option_3_description": "Urinogenital duct",
+      "question_description": "Vasa efferentia in male frog, enter the kidney and open into",
+      "question_id": 1878,
+      "response_map": "response_map_1878",
+      "selected_option_description": "Urinogenital duct"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Tubular glands",
+      "option_1_description": "Saccular glands",
+      "option_2_description": "Apocrine glands",
+      "option_3_description": "Heterocrine glands",
+      "question_description": "Gland which is both exocrine and endocrine is :",
+      "question_id": 1900,
+      "response_map": "response_map_1900",
+      "selected_option_description": "Heterocrine glands"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Osteoblast",
+      "option_1_description": "Chondroblast",
+      "option_2_description": "Fibro blast",
+      "option_3_description": "Mast cells",
+      "question_description": "All the following cells produces collagen except :",
+      "question_id": 1917,
+      "response_map": "response_map_1917",
+      "selected_option_description": "Mast cells"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "Tracheal rings",
+      "option_1_description": "Pubic symphysis",
+      "option_2_description": "Epiglottis",
+      "option_3_description": "External ear pinna",
+      "question_description": "Hyaline cartilage forms :",
+      "question_id": 1934,
+      "response_map": "response_map_1934",
+      "selected_option_description": "Tracheal rings"
+    },
+    {
+      "answered_correctly": "Yes",
+      "option_0_description": "40% inorganic, 60% organic",
+      "option_1_description": "62% inorganic, 38% organic",
+      "option_2_description": "70% inorganic, 30% organic",
+      "option_3_description": "85% inorganic, 15% organic",
+      "question_description": "The percentage of inorganic and organic parts in the matrix of a bone is",
+      "question_id": 1964,
+      "response_map": "response_map_1964",
+      "selected_option_description": "70% inorganic, 30% organic"
+    }
+  ]
+}
